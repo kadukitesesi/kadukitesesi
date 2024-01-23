@@ -2,5 +2,5 @@
 
 
 - 👦 Desenvolvedor BackEnd
-- 🌱 Atualmente Estudando Javascript/node.js
+- 🌱 Atualmente Estudando Java
 - 📫 Entre em contato através do meu email: kadukitesesi@gmail.com
