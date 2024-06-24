@@ -2,5 +2,5 @@
 
 
 - 👦 Desenvolvedor BackEnd
-- 🌱 Atualmente Estudando Java
+- ☕/🍃 Atualmente Estudando Java / Spring
 - 📫 Entre em contato através do meu email: kadukitesesi@gmail.com
