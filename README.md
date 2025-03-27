@@ -1,6 +1,6 @@
 ### Olá, me chamo Carlos Eduardo.
 
 
-- 👦 Desenvolvedor BackEnd
-- ☕/🍃 Atualmente Estudando Java / Spring
+- 👦 Desenvolvedor BackEnd / Engenheiro de Dados
+- ☕/🍃 Atualmente Estudando Python/ Java / Spring
 - 📫 Entre em contato através do meu email: kadukitesesi@gmail.com
